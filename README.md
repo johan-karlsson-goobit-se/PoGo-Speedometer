@@ -8,6 +8,6 @@ The app is completely free and open-source. It is developed by Johan "mlg" Karls
 
 Known bugs:
  * Moving the phone to landscape mode or back resets the tracking
- * The speed shown in the notification area is missing its decimal point (eg, 50 means 5.0, 105 means 10.5)
+ * The speed shown in the notification area is missing it's decimal point (eg, 50 means 5.0, 105 means 10.5)
 
-Download: https://github.com/johan-karlsson-goobit-se/PoGo-Speedometer/master/PoGo-Speedometer.apk
+Download: https://github.com/johan-karlsson-goobit-se/PoGo-Speedometer/blob/master/PoGo-Speedometer.apk
