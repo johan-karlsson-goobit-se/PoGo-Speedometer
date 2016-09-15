@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PoGo Speedometer</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="unknown">unknown</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="unit_mph">mi/h</string>
+    <string name="unit_ms">m/s</string>
+    <string name="unit_fts">ft/s</string>
+    <string name="toggle_off">Tachometer disabled</string>
+    <string name="toggle_on">Tachometer enabled</string>
+    <string name="shortcut_on">Enable tachometer</string>
+    <string name="shortcut_off">Disable tachometer</string>
+    <string name="shortcut_toggle">Toggle tachometer</string>
+    <string name="gps_disabled">GPS disabled</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_text">PoGo Speedometer displays your average speed over the last minute, based on GPS readings, as a notification in your status bar.\n\nIt calculates the speed in the same way as PoGo egg hatching, that is, it calculates your average speed from where you were a minute ago.\n\nAs long as this app always shows an average speed of below 10.5 km/h, all your distance should be counted towards eggs and buddy candy.\n\nThe app is completely free and open-source. It is developed by Johan "mlg" Karlsson, but based heavily on the app Status-Bar-Tachometer by Roland Meyer (rmy.ch) (Original sources: https://github.com/Waboodoo/Status-Bar-Tachometer ).\n\nKnown bugs:\n * Moving the phone to landscape mode or back resets the tracking\n * The speed shown in the notification area is missing its decimal point (eg, 50 means 5.0, 105 means 10.5)</string>
+    <string name="github">View on Github</string>
+    <string name="contact">Contact developer</string>
+
+</resources>
